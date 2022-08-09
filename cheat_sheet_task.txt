@@ -1,1 +1,16 @@
-pwd = 
+pwd = Current path
+
+cd directory_name = Work inside a specific directory
+
+cd .. = Goes back to previous directory
+
+ls -la = Finds files in a directory
+
+rm file_name = Deletes a file
+
+rm - r directory_name = Deletes a directory
+
+mv file_name new_file_name = Change file name 
+
+mv/cp file_name directory_name = Move/Copy file in a directory
+
